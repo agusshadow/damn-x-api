@@ -1,0 +1,1 @@
+// pendiente a relacionar con user_id y post_id
